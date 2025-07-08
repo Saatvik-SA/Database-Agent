@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.env/
+venv/
+ENV/
+env/
+
+# SQLite database files
+*.sqlite
+*.db
+
+# Dotenv files (sensitive data)
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Streamlit cache
+.streamlit/
